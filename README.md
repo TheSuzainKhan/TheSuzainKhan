@@ -43,7 +43,7 @@ I'm interested in <strong>AI, technology, and entrepreneurship</strong>, and I'm
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35"/>
 </p>
 
 <p><strong>Frontend</strong></p>
@@ -74,7 +74,7 @@ I'm interested in <strong>AI, technology, and entrepreneurship</strong>, and I'm
   <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=0097A7"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="35"/>
 </p>
 
 <hr/>
@@ -84,7 +84,9 @@ I'm interested in <strong>AI, technology, and entrepreneurship</strong>, and I'm
 <h3>🔗 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/suzainkhan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF"/></a>
+  <a href="https://linkedin.com/in/suzainkhan">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" />
+</a>
   <a href="https://github.com/TheSuzainKhan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=1E90FF"/></a>
   <a href="mailto:its.suzainkhan@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
