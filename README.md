@@ -79,13 +79,6 @@ I'm interested in <strong>AI, technology, and entrepreneurship</strong>, and I'm
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheSuzainKhan&theme=tokyonight&background=000000&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&hide_border=true" alt="streak stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSuzainKhan&layout=compact&theme=tokyonight&bg_color=000000&title_color=1E90FF&text_color=ffffff&hide_border=true" alt="top languages" height="180"/>
-</div>
-
 <hr/>
 
 <h3>🔗 Connect With Me</h3>
