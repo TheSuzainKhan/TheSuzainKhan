@@ -21,15 +21,11 @@ I gained industry experience through web development internships at <strong>IBM<
 </p>
 
 <p>
-I enjoy building practical applications and solving real-world problems through technology — from AI-powered search assistants to computer-vision-driven recommendation systems.
+I enjoy building practical applications and solving real-world problems through technology.
 </p>
 
 <p>
-I'm interested in <strong>AI, technology, and entrepreneurship</strong>, and I'm always looking to learn, build, and take on challenging problems.
-</p>
-
-<p>
-🔭 Currently looking for <strong>full-time opportunities</strong> as a Full-Stack Developer or Software Engineer, where I can contribute, learn from experienced teams, and grow by solving meaningful engineering problems.
+I'm interested in AI, technology, and entrepreneurship, and I'm always looking to learn, build, and take on challenging problems.
 </p>
 
 <hr/>
