@@ -82,9 +82,11 @@ I'm interested in AI, technology, and entrepreneurship, and I'm always looking t
 <p align="left">
   <a href="https://linkedin.com/in/suzainkhan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF"/></a>
   <a href="https://github.com/TheSuzainKhan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=1E90FF"/></a>
+  <a href="https://www.instagram.com/thesuzainkhaan/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=1E90FF"/></a>
   <a href="mailto:its.suzainkhan@gmail.com">
   <img src="https://img.shields.io/badge/Email%3A_its.suzainkhan%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=1E90FF" />
 </a>
+  
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:000000&height=100&section=footer" width="100%"/>
